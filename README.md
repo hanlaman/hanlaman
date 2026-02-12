@@ -1,5 +1,6 @@
 ## 👋 Hi, I’m @hanlaman, student @ the University of Cincinnati (CEAS + LCB)
-<p> 💻 I have held previous co-op positions @ 84.51, AMEND Consulting, and currently work @ FOX Sports Cincinnati!<br>
+Incoming PM - Engineering Business Development, Partnerships @ Garmin
+<p> 💻 I have held previous co-op positions @ 84.51, AMEND Consulting, and FOX Sports Cincinnati!<br>
 <p> 🖱️ Most experienced with Python, Adobe Acrobat, Java. </p>
 <p> 📫 How to reach me: lamanhm@mail.uc.edu</p>
 <!---
